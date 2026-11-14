@@ -1,4 +1,4 @@
-# Отчет по заданию 4 (SUID)
+# SUID
 
 **Вывод `ls -l /usr/bin/passwd`:**
 
